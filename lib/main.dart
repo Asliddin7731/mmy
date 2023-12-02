@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
       home: HomePage (),
       routes: {
         HomePage.id: (context) => HomePage(),
-        ditelPage.id: (context) => ditelPage()
+        ditelPage.id: (context) => ditelPage(),
       },
     );
   }
